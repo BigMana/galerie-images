@@ -1,4 +1,6 @@
 import { Component } from '@angular/core';
+GalerieImagesComponent
+import { GalerieImagesComponent } from '../app/galerie-images/galerie-images.component';
 
 @Component({
   selector: 'app-root',
@@ -8,3 +10,5 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'galerie-images';
 }
+
+
